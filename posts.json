@@ -3,7 +3,7 @@
     "id": 1,
     "title": "First article",
     "date": "2025-10-03",
-    "content": "First post! (Image just for content example)",
+    "content": "First post! (Image just for content example) <br> Credit photo to SikkyGD",
     "image": "images/foto1.png"
   }
 ]
