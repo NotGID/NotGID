@@ -5,5 +5,12 @@
     "date": "2025-10-03",
     "content": "First post! (Image just for content example) <br> Credit photo to SikkyGD",
     "image": "images/foto1.png"
+  },
+  {
+    "id": 2,
+    "title": "Admin join dulu gengs",
+    "date": "2025-10-05",
+    "content": "Moga bisa join",
+    "image": "https://cdn.ngid.my.id/fotodoang.jpg"
   }
 ]
