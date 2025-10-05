@@ -12,8 +12,9 @@ fetch('posts.json')
             postEl.innerHTML = `
                 <h2>${post.title}</h2>
                 <small>${post.date}</small>
-                ${post.image ? `<img src="${post.image}" alt="${post.title}">` : ''}
                 <p>${post.content}</p>
+                ${post.image ? `<img src="${post.image}" alt="${post.title}">` : ''}
+                
             `;
             container.appendChild(postEl);
         });
