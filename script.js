@@ -1,4 +1,4 @@
-fetch('posts.json')
+fetch('https://json.ngid.my.id/posts.json')
     .then(response => response.json())
     .then(posts => {
         const container = document.getElementById('blog-posts');
